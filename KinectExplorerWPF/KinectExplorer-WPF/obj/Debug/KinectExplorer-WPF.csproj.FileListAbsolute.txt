@@ -1,0 +1,17 @@
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\bin\Debug\KinectExplorer-WPF.exe.config
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\bin\Debug\KinectExplorer-WPF.exe
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\bin\Debug\KinectExplorer-WPF.pdb
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\KinectExplorer-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\KinectWindow.g.cs
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\App.g.cs
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\KinectExplorer-WPF_MarkupCompile.cache
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\KinectExplorer-WPF_MarkupCompile.lref
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\KinectWindow.baml
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\MainWindow.baml
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\KinectExplorer-WPF.g.resources
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\KinectExplorer-WPF.exe
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\KinectExplorerWPF\KinectExplorer-WPF\obj\Debug\KinectExplorer-WPF.pdb
