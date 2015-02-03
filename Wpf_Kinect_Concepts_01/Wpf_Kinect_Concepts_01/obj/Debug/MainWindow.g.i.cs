@@ -58,14 +58,6 @@ namespace Wpf_Kinect_Concepts_01 {
         #line default
         #line hidden
         
-        
-        #line 15 "..\..\MainWindow.xaml"
-        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.StackPanel scrollContent;
-        
-        #line default
-        #line hidden
-        
         private bool _contentLoaded;
         
         /// <summary>
@@ -115,25 +107,6 @@ namespace Wpf_Kinect_Concepts_01 {
             return;
             case 3:
             this.kinectRegion = ((Microsoft.Kinect.Toolkit.Controls.KinectRegion)(target));
-            return;
-            case 4:
-            
-            #line 12 "..\..\MainWindow.xaml"
-            ((Microsoft.Kinect.Toolkit.Controls.KinectTileButton)(target)).Click += new System.Windows.RoutedEventHandler(this.ButtonOnClick);
-            
-            #line default
-            #line hidden
-            return;
-            case 5:
-            
-            #line 13 "..\..\MainWindow.xaml"
-            ((Microsoft.Kinect.Toolkit.Controls.KinectCircleButton)(target)).Click += new System.Windows.RoutedEventHandler(this.ButtonOnClick);
-            
-            #line default
-            #line hidden
-            return;
-            case 6:
-            this.scrollContent = ((System.Windows.Controls.StackPanel)(target));
             return;
             }
             this._contentLoaded = true;
